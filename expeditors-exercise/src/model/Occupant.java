@@ -11,5 +11,12 @@ package model;
  * @version 27 Oct 2024
  */
 public class Occupant {
-    
+
+    private String fName;
+
+    private String lName;
+
+    private Household house;
+
+    private int age;
 }
