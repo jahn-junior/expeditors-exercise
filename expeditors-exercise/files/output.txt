@@ -1,0 +1,14 @@
+Households: 
+123 main st seattle wa: 4 resident(s)
+234 2nd ave seattle wa: 1 resident(s)
+234 2nd ave tacoma fl: 1 resident(s)
+234 2nd ave tacoma wa: 2 resident(s)
+345 3rd blvd apt 200 seattle wa: 2 resident(s)
+
+Occupants: 
+Carol Johnson; 234 2nd ave seattle wa; Age: 67
+Frank Jones; 234 2nd ave tacoma fl; Age: 23
+Alice Smith; 123 main st seattle wa; Age: 45
+Dave Smith; 123 main st seattle wa; Age: 43
+Eve Smith; 234 2nd ave tacoma wa; Age: 25
+Bob Williams; 234 2nd ave tacoma wa; Age: 26
